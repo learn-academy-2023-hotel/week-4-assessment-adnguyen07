@@ -4,10 +4,10 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Career Readiness
-- [ ] Coding Challenges
-- [ ] Interview Questions
-- [ ] Ruby Challenges
+- [✅] Career Readiness
+- [✅] Coding Challenges
+- [✅] Interview Questions
+- [✅] Ruby Challenges
 
 ### ✋ Reminder
 
